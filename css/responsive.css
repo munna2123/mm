@@ -1,0 +1,38 @@
+@media(max-width: 768px){
+    body {
+        background: #edf2fc;
+    }
+    img.logo {
+        width: 101px;
+    }
+.hero {
+    width: 99%;
+}
+nav {
+    width: 565px;
+}
+.info {
+    width: 271px;
+    padding: 14px;
+    height: 239px;
+}
+.info h1 {
+    font-size: 43px;
+}
+
+.img-box {
+    top: -44px;
+    float: ce;
+    width: 57px;
+}
+    img.back-img {
+        width: 200px;
+        height: 240px;
+    }
+    
+    img.main-img {
+        width: 223px;
+        height: 270px;
+    }
+    
+}
